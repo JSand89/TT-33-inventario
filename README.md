@@ -60,3 +60,9 @@ Aqui estoy cerrando lo de arriba
 le dijo que me escuche el puerto
 - console.log(`server running in port ${PORT}`)
 Me envio este mensaje para saber que todo esta OK
+
+### Rutas y controladores
+Primero creamos las carpetas con 
+```
+mkdir controllers models routes
+```
