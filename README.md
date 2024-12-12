@@ -66,3 +66,5 @@ Primero creamos las carpetas con
 ```
 mkdir controllers models routes
 ```
+
+## Vamos a trabajar en el README de lo que vimos hoy
